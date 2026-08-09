@@ -18,4 +18,4 @@ El sistema cuenta con un menú interactivo, validación de entradas para evitar 
   python main.py
 
 ## 📊 Diagrama de Flujo
-![Diagrama de flujo](diagramas/diagrama_flujo.png)
+![Diagrama de flujo](diagramas/Diagrama%20flujo%20png.png)
