@@ -16,3 +16,6 @@ El sistema cuenta con un menú interactivo, validación de entradas para evitar 
 * Ejecutar el comando en la terminal:
   ```bash
   python main.py
+
+## 📊 Diagrama de Flujo
+![Diagrama de flujo](diagramas/diagrama_flujo.png)
